@@ -1,7 +1,7 @@
 # AurIAL-Rocks
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AurIAL-Rocks.AurIAL-Rocks)
-![GitHub Stars](https://img.shields.io/github/stars/AurIAL-Rocks?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/AurIAL-Rocks/AurIAL-Rocks?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/AurIAL-Rocks/AurIAL-Rocks?style=social)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/AurIAL-Rocks/AurIAL-Rocks)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/AurIAL-Rocks/AurIAL-Rocks)
